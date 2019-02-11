@@ -4,7 +4,7 @@
 
 잘못 그려진 사례를 모아두고자 오늘 저장소를 새로 만든다.
 
-영감을 얻었던 것은 [`월스트리트저널 인포그래픽 가이드(인사이트)`](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966260935&orderClick=LAH&Kc=) 책이었다. 그 외에 visualization 관련 책을 읽으면서 도움을 많이 얻기는 했지만, 한권을 꼽으라면, 역시 이 책을 꼽을 수 밖에 없다.
+영감을 얻었던 것은 `[월스트리트저널 인포그래픽 가이드(인사이트)](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966260935&orderClick=LAH&Kc=)` 라는 책이었다. 그 외에 visualization 관련 책을 읽으면서 도움을 많이 얻기는 했지만, 한권을 꼽으라면, 역시 이 책을 꼽을 수 밖에 없다.
 
 이 책의 내용을 간단하게 살펴보기에 좋은 자료로는 [`헬로 데이터 과학`](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788968482656&orderClick=LEA&Kc=)의 저자 김진영씨가 운영했던 유튜브 방송 중 [`데이터지능 E10 데이터시각화 & 인포그래픽 with 김묘영님`](https://www.youtube.com/watch?v=aL5bQrU0Dc4&t=34m53s) 편을 보면 좋겠다.
 
